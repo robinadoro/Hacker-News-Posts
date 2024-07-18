@@ -1,4 +1,4 @@
-### Exploring Hacker News Posts
+# Exploring Hacker News Posts
 
 In this project, I'll work with a dataset of submissions to popular technology site Hacker News, a site started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") receive votes and comments, similar to reddit.
 
